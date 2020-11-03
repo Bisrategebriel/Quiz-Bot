@@ -1,0 +1,14 @@
+{
+  "name": "quizbot",
+  "version": "1.0.0",
+  "description": "a simplified quiz bot that tracks top 3 winners with their time of response.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bisrategebriel Fisseha",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.50.0"
+  }
+}
